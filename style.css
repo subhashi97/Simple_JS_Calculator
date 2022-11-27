@@ -1,0 +1,21 @@
+.demo{
+    width: 250px;
+    height: fit-content;
+}
+
+button{
+    margin: 2px 2px;
+    padding: 1px;
+    border-radius: 3px;
+    width:50px;
+    height: 50px;
+    border-color: blueviolet;
+}
+
+#nAC{
+    width: 225px;
+}
+
+h4{
+    color:blue;
+}
